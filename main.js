@@ -11,6 +11,7 @@ function clear(e) {
   fInpt.value = '';
   sInpt.value = '';
   tInpt.value = '';
+  answer.style.display = 'none';
 }
 
 function calculate(e) {
