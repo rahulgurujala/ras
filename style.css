@@ -1,0 +1,12 @@
+body {
+  font-size: 15pt;
+}
+
+input {
+  width: 30px;
+}
+
+#subBtn,
+#cls {
+  width: 100px;
+}
